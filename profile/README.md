@@ -7,3 +7,4 @@ Following are the links that we will refer in the training
 | Azure Account Signup Video | https://youtu.be/UsFw4lKb5zU |  |
 | Azure Account Signup Link  | https://portal.azure.com/ |  |
 | Azure Login Page  | https://portal.azure.com/ |  |
+| Putty Download Link | https://the.earth.li/~sgtatham/putty/latest/w64/putty.exe | |
