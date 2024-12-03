@@ -8,4 +8,4 @@ Following are the links that we will refer in the training
 | Azure Account Signup Link  | https://portal.azure.com/ |  |
 | Azure Login Page  | https://portal.azure.com/ |  |
 | Putty Download Link | https://the.earth.li/~sgtatham/putty/latest/w64/putty.exe | |
-| Create Azure VMs for Project | ||
+| Create Azure VMs for Project | https://github.com/raghudevopsb82/.github/blob/main/create-vm-for-project.md ||
